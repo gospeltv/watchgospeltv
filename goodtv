@@ -1,4 +1,16 @@
-#EXTM3U
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTINF:-1 group-title="Science", Discovery
+http://example.com/channel1
+#EXTINF:-1 group-title="Sport", Eurosport
+http://example.com/channel2
+#EXTINF:-1 tvg-logo="Eurosport" tvg-name="Eurosport" tvg-shift="+1",Eurosport +1
+http://example.com/channel3
+#EXTINF:-1 group-title="Custom" tvg-logo="https://cdn1.iconfinder.com/data/icons/Primo_Icons/PNG/128x128/video.png",My Custom channel
+http://example.com/channel4
+
+
+
+
 #EXTINF: -1, tvg-logo="http://www.goodtv.tv/images/GoodTV_logo2.png?v=1532314996", GOODTV 好消息
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF: -1, tvg-logo="http://www.goodtv.tv/images/GoodTV_logo2.png?v=1532314996", GOODTV 好消息
@@ -6,4 +18,4 @@ rtmp://wv4.tp33.net/sat/tv091
 #EXTINF: -1, tvg-logo="http://www.goodtv.tv/images/GoodTV_logo2.png?v=1532314996", GOODTV 好消息
 p2p://122.114.113.182:9999/56f8a73c0001d07b2c72af0e27126364
 #EXTINF: -1,  tvg-name="凤凰卫视", tvg-logo="http://www.goodtv.tv/images/GoodTV_logo2.png?v=1532314996",  group-title="HONG KONG",Historia
-凤凰卫视,rtmp://live.hkstv.hk.lxdns.com:1935/live/hks
+rtmp://live.hkstv.hk.lxdns.com:1935/live/hks
