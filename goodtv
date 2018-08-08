@@ -5,5 +5,4 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u
 rtmp://wv4.tp33.net/sat/tv091
 #EXTINF: -1, tvg-logo="http://www.goodtv.tv/images/GoodTV_logo2.png?v=1532314996", GOODTV 好消息
 p2p://122.114.113.182:9999/56f8a73c0001d07b2c72af0e27126364
-#EXTINF: -1, tvg-logo="http://www.goodtv.tv/images/GoodTV_logo2.png?v=1532314996", GOODTV 好消息
-p2p://122.114.113.182:9999/56f8a7eb000458fe2c755b4428344e4a
+#EXTINF: -1,  tvg-name="凤凰卫视", tvg-logo="http://www.goodtv.tv/images/GoodTV_logo2.png?v=1532314996",  group-title="HONG KONG",Historia
