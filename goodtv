@@ -4,4 +4,4 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u
 #EXTINF: -1, tvg-logo="http://www.goodtv.tv/images/GoodTV_logo2.png?v=1532314996", GOODTV 好消息
 rtmp://wv4.tp33.net/sat/tv091
 #EXTINF: -1, tvg-logo="http://www.goodtv.tv/images/GoodTV_logo2.png?v=1532314996", GOODTV 好消息
-rtmp%3A//kv3.tp33.net/sat/tv051&amp
+rtmp%3a//kv3.tp33.net%3a1935/sat/tv051:extra
