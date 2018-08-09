@@ -12,3 +12,14 @@ http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1184135310/SinoVision_LOGO.jpg" group-title="US Channels",SINOVISION 美国中文电视
 rtmp://cp358674.live.edgefcs.net/live/TVE-LA1-GL7@300841
 
+
+
+####################################### TAIWAN CHANNELS ################################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title=Taiwan Channels",CTV 中视
+rtmp://wv4.tp33.net/sat/tv091
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="Taiwan Channels",CTS 华视
+rtmp://wv4.tp33.net/sat/tv111
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/Taiwan_Television_logo.png" group-title="Taiwan Channels",TTV 台视
+rtmp://wv4.tp33.net/sat/tv071
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="Taiwan Channels",FTV 民视
+rtmp://wv4.tp33.net/sat/tv051
