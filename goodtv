@@ -1,14 +1,14 @@
 #EXTM3U 
 
 ####################################### ANIMATION CHANNELS ###############################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Crayon_Shin-chan_vol_1_cover.jpg/220px-Crayon_Shin-chan_vol_1_cover.jpg" group-title="ANIMATION CHANNELS",Crayon Shinchan 蜡笔小新
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Crayon_Shin-chan_vol_1_cover.jpg/220px-Crayon_Shin-chan_vol_1_cover.jpg" group-title="Animation Channels",Crayon Shinchan 蜡笔小新
 http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg/220px-One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg" group-title="ANIMATION CHANNELS",One Piece 高清海贼王
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg/220px-One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg" group-title="Animation Channels",One Piece 高清海贼王
 http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/NarutoCoverTankobon1.jpg/220px-NarutoCoverTankobon1.jpg" group-title="ANIMATION CHANNELS",Naruto 火影忍者
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/NarutoCoverTankobon1.jpg/220px-NarutoCoverTankobon1.jpg" group-title="Animation Channels",Naruto 火影忍者
 http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
 
 ####################################### US CHANNELS ################################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US CHANNELS",SINOVISION 美国中文电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1184135310/SinoVision_LOGO.jpg" group-title="US Channels",SINOVISION 美国中文电视
 rtmp://cp358674.live.edgefcs.net/live/TVE-LA1-GL7@300841
 
