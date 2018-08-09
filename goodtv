@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
-#EXTINF:-1 group-title="Science", Discovery
+#EXTINF:-1 group-title="Science", DISCOVERY CHANNELS
 http://example.com/channel1
-#EXTINF:-1 group-title="Sport", Eurosport
+#EXTINF:-1 group-title="Sport", SPORT CHANNELS
 http://example.com/channel2
 #EXTINF:-1 tvg-logo="Eurosport" tvg-name="Eurosport" tvg-shift="+1",Eurosport +1
 http://example.com/channel3
