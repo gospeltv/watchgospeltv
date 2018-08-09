@@ -1,6 +1,7 @@
 #EXTM3U 
-#EXTINF:-1 group-title="Animation Channels", One Piece 高清海贼王, tvg-logo="http://www.tmdm.tv/onepiece/848.html"
+#EXTINF:-1 tvg-name="CuatroHD" tvg-logo="http://www.tmdm.tv/onepiece/848.html" group-title="Animation Channel", One Piece 高清海贼王
 http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
 #EXTINF:-1 group-title="Animation Channels", Crayon Shinchan 蜡笔小新, tvg-logo="http://www.tmdm.tv/lbxx2000jcbsldbfy/1.html"
 http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
 
+tvg-name = "MCM_Top" tvg-logo = "MCMTop" group-title = "Music and Entertainment", MCM Top
