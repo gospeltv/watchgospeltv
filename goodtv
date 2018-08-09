@@ -1,13 +1,17 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
-#EXTINF:-1 group-title="Science", DISCOVERY CHANNELS
-http://example.com/channel1
-#EXTINF:-1 group-title="Sport", SPORT CHANNELS
+#EXTM3U 
+#EXTINF:-1 group-title="Animation Channels", One Piece 高清海贼王, tvg-logo="http://www.tmdm.tv/onepiece/848.html"
+http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
+#EXTINF:-1 group-title="Animation Channels", Crayon Shinchan 蜡笔小新, tvg-logo="http://www.tmdm.tv/lbxx2000jcbsldbfy/1.html"
+http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
+
+#EXTINF:-1 group-title="SPORT CHANNELS", SPORT CHANNELS
 http://example.com/channel2
-#EXTINF:-1 tvg-logo="Eurosport" tvg-name="Eurosport" tvg-shift="+1",Eurosport +1
+#EXTINF:-1 tvg-logo="ANIMATION CHANNELS" tvg-name="Eurosport" tvg-shift="+1",Eurosport +1
 http://example.com/channel3
 #EXTINF:-1 group-title="Custom" tvg-logo="https://cdn1.iconfinder.com/data/icons/Primo_Icons/PNG/128x128/video.png",My Custom channel
 http://example.com/channel4
-
+#EXTINF:-1 group-title="Custom" tvg-logo="https://cdn1.iconfinder.com/data/icons/Primo_Icons/PNG/128x128/video.png",My Custom channel
+http://example.com/channel4
 
 
 
