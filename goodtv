@@ -1,7 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="http://xyx.075869.com/acg/2016/12/13/414cf1da374075dd241e77d2f8f231f665f23dc8.jpg/pic_200.jpg" group-title="Animation Channels", One Piece 高清海贼王
-http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
-#EXTINF:-1 tvg-logo="http://xyx.075869.com/acg/2016/12/13/a69cdda1c1005cc95860b49068a0cf5fe8e5af44.jpg/pic_200.jpg" group-title="Animation Channels", OCrayon Shinchan 蜡笔小新
-http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xyx.075869.com/acg/2016/12/13/414cf1da374075dd241e77d2f8f231f665f23dc8.jpg/pic_200.jpg" group-title="Animation Channels",One Piece 高清海贼王
+http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xyx.075869.com/acg/2016/12/13/a69cdda1c1005cc95860b49068a0cf5fe8e5af44.jpg/pic_200.jpg" group-title="Animation Channels",Crayon Shinchan 蜡笔小新
+http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
