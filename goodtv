@@ -1,8 +1,11 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/onepiece.jpg" group-title="Animation Channels",One Piece 高清海贼王
-http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/crayon.jpg" group-title="Animation Channels",Crayon Shinchan 蜡笔小新
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Crayon_Shin-chan_vol_1_cover.jpg/220px-Crayon_Shin-chan_vol_1_cover.jpg" group-title="ANIMATION CHANNLES",Crayon Shinchan 蜡笔小新
 http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg/220px-One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg" group-title="ANIMATION CHANNLES",One Piece 高清海贼王
+http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/NarutoCoverTankobon1.jpg/220px-NarutoCoverTankobon1.jpg" group-title="ANIMATION CHANNLES",Naruto 火影忍者
+http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
 
 
