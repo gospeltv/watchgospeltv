@@ -29,7 +29,7 @@ rtmp://wv4.tp33.net/sat/tv701
 rtmp://wv4.tp33.net/sat/tv571
 
 ####################################### SPORT CHANNELS ################################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="Sport Channels",纬来体育HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.360zhibo.com/images/cover/1492732643.jpg" group-title="Sport Channels",纬来体育
 rtmp://wv4.tp33.net/sat/tv721
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c4/Hkc_cable_sports.jpg/100px-Hkc_cable_sports.jpg" group-title="Sport Channels",HKC体育2台
 rtmp://wv4.tp33.net:1935/sat/hk011
