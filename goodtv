@@ -11,6 +11,10 @@ http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
 ####################################### US CHANNELS ################################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1184135310/SinoVision_LOGO.jpg" group-title="US Channels",SINOVISION 美国中文电视
 rtmp://cp358674.live.edgefcs.net/live/TVE-LA1-GL7@300841
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1184135310/SinoVision_LOGO.jpg" group-title="US Channels",SINOVISION 美国中文电视
+https://www.youtube.com/watch?v=Iv7rnPl5QpY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1184135310/SinoVision_LOGO.jpg" group-title="US Channels",SINOVISION 美国中文电视
+https://www.youtube.com/watch?v=oJpfK9-Fib0&list=PLhzywdN5iYrC4cOOn8L2iWk3Ix3P88FlR
 
 
 
