@@ -15,7 +15,7 @@ rtmp://cp358674.live.edgefcs.net/live/TVE-LA1-GL7@300841
 
 
 ####################################### TAIWAN CHANNELS ################################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title=Taiwan Channels",CTV 中视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="Taiwan Channels",CTV 中视
 rtmp://wv4.tp33.net/sat/tv091
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="Taiwan Channels",CTS 华视
 rtmp://wv4.tp33.net/sat/tv111
