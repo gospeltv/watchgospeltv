@@ -10,12 +10,18 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/hk-tv/one-tv-live.jpg" group-title="Christian Channels",GOODTV 真理台
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 
-####################################### ANIMATION CHANNELS ###############################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Crayon_Shin-chan_vol_1_cover.jpg/220px-Crayon_Shin-chan_vol_1_cover.jpg" group-title="Animation Channels",Crayon Shinchan 蜡笔小新
+####################################### KID CHANNELS ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goodtv.tv/images/channel/ch73.jpg" group-title="Kid Channels",GOOD TV 烤箱讀書會
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch44-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goodtv.tv/images/channel/ch74.jpg" group-title="Kid Channels",GOOD TV 卡通
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch45-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goodtv.tv/images/channel/ch75.jpg" group-title="Kid Channels",GOOD TV 少年體驗隊
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch46-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Crayon_Shin-chan_vol_1_cover.jpg/220px-Crayon_Shin-chan_vol_1_cover.jpg" group-title="Kid Channels",Crayon Shinchan 蜡笔小新
 http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg/220px-One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg" group-title="Animation Channels",One Piece 高清海贼王
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg/220px-One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg" group-title="Kid Channels",One Piece 高清海贼王
 http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/NarutoCoverTankobon1.jpg/220px-NarutoCoverTankobon1.jpg" group-title="Animation Channels",Naruto 火影忍者
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/NarutoCoverTankobon1.jpg/220px-NarutoCoverTankobon1.jpg" group-title="Kid Channels",Naruto 火影忍者
 http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
 
 ####################################### US CHANNELS ################################################
@@ -37,10 +43,34 @@ rtmp://wv4.tp33.net/sat/tv111
 rtmp://wv4.tp33.net/sat/tv071
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="Taiwan Channels",FTV 民视
 rtmp://wv4.tp33.net/sat/tv051
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg" group-title="Taiwan Channels",FTV 民视新聞台
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/09/VL-Max-TV-Logo.jpg" group-title="Taiwan Channels",纬来育乐台
 rtmp://wv4.tp33.net/sat/tv701
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ac/Titv_logo.png/240px-Titv_logo.png" group-title="Taiwan Channels",FiTV 原視
+https://t-180717.3rd-evo.com/titv-live/_definst_/smil:titv/titv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ebc.net.tw/Images/169-fnc.jpg" group-title="Taiwan Channels",EBC東森財經新聞
 rtmp://wv4.tp33.net/sat/tv571
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d9/%E5%A3%B9%E9%9B%BB%E8%A6%96%E7%AC%AC%E4%BA%8C%E4%BB%A3%E6%A8%99%E8%AA%8C.jpg" group-title="Taiwan Channels",NEXTTV 壹新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png" group-title="Taiwan Channels",TVBS歡樂台
+http://210.201.54.102/gtlive/tvbsg/chunklist_w1925537168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/TVBS-Logo.jpg" group-title="Taiwan Channels",TVBS
+http://210.201.54.112/gtlive2/tc-tvbs/chunklist_w242981763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/USTV-Logo.jpg" group-title="Taiwan Channels",USTV 非凡新聞台
+http://210.201.54.112/gtlive/ustvhd/chunklist_w1075155011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/USTV-Logo.jpg" group-title="Taiwan Channels",USTV 非凡新聞台
+http://210.201.54.112/gtlive/ustvhd/chunklist_w1075155011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goodtv.tv/images/channel/ch68.jpg" group-title="Taiwan Channels",GOOD TV 轉轉發現愛
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch40-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goodtv.tv/images/channel/ch69.jpg" group-title="Taiwan Channels",GOOD TV 幸福學堂
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch41-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goodtv.tv/images/channel/ch70.jpg" group-title="Taiwan Channels",GOOD TV 愛＋好醫生
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch42-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goodtv.tv/images/channel/ch72.jpg" group-title="Taiwan Channels",GOOD TV 愛＋好醫生
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch43-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ntdtv.com.tw/staticelement/img/main/header_logo.png" group-title="Taiwan Channels",新唐人電視台
+http://www.ntdtv.com.tw/mlt/playlist.m3u8
 
 ####################################### SPORT CHANNELS ################################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.360zhibo.com/images/cover/1492732643.jpg" group-title="Sport Channels",纬来体育
