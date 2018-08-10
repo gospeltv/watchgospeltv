@@ -1,5 +1,15 @@
 #EXTM3U 
 
+
+####################################### CHRISTIAN CHANNELS ###############################################
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gospeliptv.000webhostapp.com/icon/hopechannel.gif" group-title="Christian Channels",希望电视台
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gsrepotest.000webhostapp.com/icon/goodtv.png" group-title="Christian Channels",GOODTV 综合台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/hk-tv/one-tv-live.jpg" group-title="Christian Channels",GOODTV 真理台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+
 ####################################### ANIMATION CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Crayon_Shin-chan_vol_1_cover.jpg/220px-Crayon_Shin-chan_vol_1_cover.jpg" group-title="Animation Channels",Crayon Shinchan 蜡笔小新
 http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
