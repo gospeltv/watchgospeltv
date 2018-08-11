@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=oJpfK9-Fib0&list=PLhzywdN5iYrC4cOOn8L2iWk3Ix3P88
 
 ####################################### TAIWAN CHANNELS ################################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="Taiwan Channels",CTV 中视
-rtmp://wv4.tp33.net/sat/tv091 pageUrl=http://www.gotvshow.ga/2016/03/CH10CTV1.html swfUrl=http://www.hlsplayer.net/player/grindplayer/GrindPlayer.swf live=1 
+rtmp://wv4.tp33.net/sat/tv091 playpath=E09ACF1D9924F9493EDE6499EE850FC3 pageUrl=http://www.gotvshow.ga/2016/03/CH10CTV1.html swfUrl=http://www.hlsplayer.net/player/grindplayer/GrindPlayer.swf live=1 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="Taiwan Channels",CTS 华视
 rtmp://wv4.tp33.net/sat/tv111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/TTV-670x300.jpg group-title="Taiwan Channels",TTV 台视
