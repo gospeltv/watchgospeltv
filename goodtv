@@ -15,6 +15,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=yk2CUj
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TIjhV3BLUXw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/hk-tv/one-tv-live.jpg" group-title="Christian Channels",GOODTV testing3
 rtmp://kv3.tp33.net/sat/tv051 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/hk-tv/one-tv-live.jpg" group-title="Christian Channels",GOODTV testing4
+rtmp://wv4.tp33.net/sat/tv091 swfVfy=true live=true
 
 
 ####################################### KID CHANNELS ###############################################
