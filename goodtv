@@ -9,6 +9,9 @@ http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1800_av-p.m3u8?sd=10&reb
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/hk-tv/one-tv-live.jpg" group-title="Christian Channels",GOODTV 真理台
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/hk-tv/one-tv-live.jpg" group-title="Christian Channels",GOODTV testing
+plugin://plugin.video.netflix/?action=play_video&video_id=yk2CUjbyyQY
+
 
 ####################################### KID CHANNELS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goodtv.tv/images/channel/ch73.jpg" group-title="Kid Channels",GOOD TV 烤箱讀書會
