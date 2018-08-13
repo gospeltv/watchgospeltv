@@ -13,6 +13,8 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=yk2CUjbyyQY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/hk-tv/one-tv-live.jpg" group-title="Christian Channels",GOODTV testing
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TIjhV3BLUXw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/hk-tv/one-tv-live.jpg" group-title="Christian Channels",GOODTV testing3
+rtmp://kv3.tp33.net/sat/tv051 swfVfy=true live=true
 
 
 ####################################### KID CHANNELS ###############################################
