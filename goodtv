@@ -12,3 +12,10 @@ https://www54.uptostream.com/jko694d1d8/1080/0/video.mp4
 https://www7.uptostream.com/jkopev0ff5/1080/0/video.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.icdrama.se/images/film/the-stunt-5b09.jpg" group-title="特技人",EPISODE 01
 https://www59.uptostream.com/jkokj1a02d/1080/0/video.mp4
+####################################### TAIWAN CHANNELS ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.icdrama.se/images/film/story-of-yanxi-palace-cfae.jpg" group-title="台湾直播",民视 FTV
+rtmp://kv3.tp33.net/sat/tv051 swfVfy=true live=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.icdrama.se/images/film/story-of-yanxi-palace-cfae.jpg" group-title="台湾直播",EPISODE 01
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cffb75MwHH0
+
+
